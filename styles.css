@@ -1,0 +1,36 @@
+body{
+	background-color: blue;
+}
+
+h1{
+
+}
+.titulo{
+
+}
+#nombre{
+
+}
+div > h1{
+
+}
+div h1{
+
+}
+
+@media (max-width: 900px){
+	body{
+		background-color: red;
+	}
+}
+
+@media (max-width: 600px) {
+	body{
+		background-color: yellow;
+	}
+}
+
+
+
+
+
